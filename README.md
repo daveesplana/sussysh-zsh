@@ -1,6 +1,5 @@
 # sussysh-zsh
-
-oh-my-zsh theme based on the xiong-chiamiov, with just minor alterations.
+oh-my-zsh theme.
 
 ### Preview
 ![Screenshot](https://github.com/sussyybaka/sussysh-zsh/blob/main/Screenshot.png)
